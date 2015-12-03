@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlDogTutorial", "HtmlDogT
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "temp", "temp", "{AFBC4A35-3EC0-4309-80A4-FBA227BAF035}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		questions.txt = questions.txt
 	EndProjectSection
 EndProject
