@@ -28,6 +28,8 @@
   <ItemGroup>
     <Content Include="index3.html" />
     <Content Include="index4.html" />
+    <Content Include="style.css" />
+    <Content Include="style1.css" />
     <Content Include="videos\film1.MP4" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
