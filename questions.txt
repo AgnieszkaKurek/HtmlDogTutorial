@@ -1,6 +1,0 @@
-Dlaczego w tutorialu o css koleœ wpisuje kod w ten sposób 
-body{
- background-color:gray;
- font-family:Verdena;
- front-size:20px;
- color:white}

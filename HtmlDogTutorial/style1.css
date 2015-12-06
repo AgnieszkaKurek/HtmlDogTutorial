@@ -1,0 +1,37 @@
+﻿body 
+{
+    background-color:lightpink;
+
+    font-family:Verdana;
+
+    font-size:20px;
+
+    color: black;
+}
+
+h1
+{
+    font-size:48px;
+    color:black;
+}
+
+/*Not visited link*/
+a:link
+{
+    color:blue;
+}
+/*Visited link*/
+a:visited
+{
+    color:blue;
+}
+/*Hover link*/
+a:hover
+{
+    color:red;
+}
+
+
+
+
+
