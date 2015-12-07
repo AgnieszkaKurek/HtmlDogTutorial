@@ -34,9 +34,30 @@
 
 
 }
-#topbar{
+#topbar
+{
+    background-color:lightcoral;
+        padding:10px;
+        margin-top:20px;
+        margin-bottom:25px;
+        height:200px;
+}
+#topbarL
+{
+float:left;
+padding:20px;
+width:200px;
+text-align:center;
+border-right:dotted;
+border-right-color:gray;
 
-
+}
+#topbarR
+{
+    float:left;
+    padding:20px;
+    width:700px;
+    text-align:justify;
 }
 #sidebar{
 
