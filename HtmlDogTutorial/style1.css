@@ -46,7 +46,7 @@
 {
 float:left;
 padding:20px;
-width:200px;
+width:160px;
 text-align:center;
 border-right:dotted;
 border-right-color:gray;
@@ -62,7 +62,7 @@ border-right-color:gray;
 #sidebar
 {
    float:left;
-   width:150;
+   width:172;
    min-height:620;
    padding:20px;
    text-align:center;
