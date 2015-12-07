@@ -98,4 +98,18 @@ border-right-color:gray;
     background-color:blue;
     cursor:pointer;
 }
+.optionL
+{
+font-size:20px;
+height:25px;
+padding:10px;
+border-bottom:dotted;
+border-bottom-color:gray;
+}
+.optionL:hover
+{
+    background-color:blue;
+    cursor:pointer;
+
+}
 
