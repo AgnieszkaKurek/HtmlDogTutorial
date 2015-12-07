@@ -116,4 +116,11 @@ border-bottom-color:gray;
     cursor:pointer;
 
 }
+.bigtitle
+{
+    font-size:30px;
+    font-weight:700px;
+    letter-spacing:2px;
+}
+
 
