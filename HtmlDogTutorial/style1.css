@@ -80,6 +80,10 @@ border-right-color:gray;
 #footer
 {
     clear:both;
+    background-color:hotpink;
+    text-align:center;
+    padding:20px;
+
 }
 .option
 {
