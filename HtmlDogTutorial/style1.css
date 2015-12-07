@@ -1,49 +1,37 @@
 ﻿body 
 {
-    background-color:lightpink;
+    background-color:pink;
 
     font-family: 'Bitter', serif;
 }
 
-h1
-{
-    font-size:48px;
-    color:black;
-}
 
-/*Not visited link*/
-a:link
+#conteiner
 {
-    color:blue;
-}
-/*Visited link*/
-a:visited
-{
-    color:blue;
-}
-/*Hover link*/
-a:hover
-{
-    color:red;
-}
-
-#conteiner{
     width:1200px;
     margin-left:auto;
     margin-right:auto;
 
 
 }
-#logo{
+#logo
+{
     color:hotpink;
     margin:20px;
     font-size:30px;
     letter-spacing:3px;
-
-       
+    font-weight:900;
 
 }
-#menu{
+#menu
+{
+    background-color:lightpink;
+    margin-top:20px;
+    color:purple;
+    padding:20px;
+    text-align:center;
+
+
 
 }
 #topbar{
@@ -59,8 +47,21 @@ a:hover
 #footer{
 
 }
+.option
+{
+   float:left;
+   min-width:50px;
+   height:25px;
+   font-size:18px;
+   padding:10px;
+   border-right:dotted;
+   border-right-color:gray;
+   opacity:0.8;
+}
 
-
-
-
+.option:hover
+{
+    background-color:blue;
+    cursor:pointer;
+}
 
